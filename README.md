@@ -1,4 +1,4 @@
-# Hi I'm elvia-sanchez-leiva 👋
+# Hi I'm elvia-sanchez-leiva (31v1) 👋
 
 I'm a Computer Engineering student with HR background transitioning into software development.  
 I work with C++, Java, SQL, Git/GitHub, and I'm currently preparing for the AWS Cloud Practitioner certification.
